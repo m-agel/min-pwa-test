@@ -1,0 +1,11 @@
+{
+    "name": "minPWATest",
+    "start_url": ".",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "icon-144.png",
+            "sizes": "any"
+        }
+    ]
+}
